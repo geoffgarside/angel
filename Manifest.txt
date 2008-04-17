@@ -7,6 +7,10 @@ Rakefile
 config/hoe.rb
 config/requirements.rb
 lib/angel.rb
+lib/angel/servers.rb
+lib/angel/servers/ebb.rb
+lib/angel/servers/mongrel.rb
+lib/angel/servers/thin.rb
 lib/angel/version.rb
 script/console
 script/destroy
