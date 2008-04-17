@@ -1,12 +1,11 @@
 require 'angel/version'
 
-AUTHOR = 'FIXME full name'  # can also be an array of Authors
+AUTHOR = 'Geoff Garside'  # can also be an array of Authors
 EMAIL = "FIXME email"
 DESCRIPTION = "description of gem"
 GEM_NAME = 'angel' # what ppl will type to install your gem
-RUBYFORGE_PROJECT = 'angel' # The unix name for your project
-HOMEPATH = "http://#{RUBYFORGE_PROJECT}.rubyforge.org"
-DOWNLOAD_PATH = "http://rubyforge.org/projects/#{RUBYFORGE_PROJECT}"
+HOMEPATH = "http://github.com/geoffgarside/angel"
+DOWNLOAD_PATH = "http://github.com/geoffgarside/angel/tarball/master"
 EXTRA_DEPENDENCIES = [
 #  ['activesupport', '>= 1.3.1']
 ]    # An array of rubygem dependencies [name, version]

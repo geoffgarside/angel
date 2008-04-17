@@ -1,32 +1,30 @@
 = angel
 
-* FIX (url)
+http://github.com/geoffgarside/angel
 
 == DESCRIPTION:
 
-FIX (describe your package)
-
-== FEATURES/PROBLEMS:
-
-* FIX (list of features or problems)
-
-== SYNOPSIS:
-
-  FIX (code sample of usage)
+Some helper methods for streamlining god config files
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+While it doesnt force it, god would make sense too ;)
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+$ git clone git://github.com/geoffgarside/angel.git
+$ cd angel
+$ rake install_gem
+
+and god would help
+
+$ sudo gem install god
 
 == LICENSE:
 
 (The MIT License)
 
-Copyright (c) 2008 FIX
+Copyright (c) 2008 Geoff Garside.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
