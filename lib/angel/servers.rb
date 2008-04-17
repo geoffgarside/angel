@@ -1,3 +1,3 @@
-require 'servers/mongrel'
-require 'servers/thin'
-require 'servers/ebb'
+require 'angel/servers/mongrel'
+require 'angel/servers/thin'
+require 'angel/servers/ebb'

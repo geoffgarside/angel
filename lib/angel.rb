@@ -35,4 +35,4 @@ module Angel
   end
 end
 
-require 'servers'
+require 'angel/servers'
