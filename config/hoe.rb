@@ -6,6 +6,7 @@ DESCRIPTION = "description of gem"
 GEM_NAME = 'angel' # what ppl will type to install your gem
 HOMEPATH = "http://github.com/geoffgarside/angel"
 DOWNLOAD_PATH = "http://github.com/geoffgarside/angel/tarball/master"
+RUBYFORGE_PROJECT = nil # We don't use it
 EXTRA_DEPENDENCIES = [
 #  ['activesupport', '>= 1.3.1']
 ]    # An array of rubygem dependencies [name, version]
