@@ -2,7 +2,7 @@ require 'angel/version'
 
 AUTHOR = 'Geoff Garside'  # can also be an array of Authors
 EMAIL = "geoff@geoffgarside.co.uk"
-DESCRIPTION = "Helper methods for use with God"
+DESCRIPTION = "Helper methods for use with God, see wiki for example"
 GEM_NAME = 'angel' # what ppl will type to install your gem
 HOMEPATH = "http://github.com/geoffgarside/angel"
 DOWNLOAD_PATH = "http://github.com/geoffgarside/angel/tarball/master"
