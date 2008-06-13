@@ -2,11 +2,7 @@ Gem::Specification.new do |s|
   s.name = %q{angel}
   s.version = "1.0.0"
 
-  s.specification_version = 2 if s.respond_to? :specification_version=
-
-  s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Geoff Garside"]
-  s.cert_chain = ["/Users/ggarside/.gem/gem-public_cert.pem"]
   s.date = %q{2008-06-14}
   s.description = %q{Helper methods for use with God, see wiki for example}
   s.email = ["geoff@geoffgarside.co.uk"]
@@ -24,8 +20,6 @@ Require this 'angel' into your god scripts to use it.
   s.rdoc_options = ["--main", "README.txt"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{angel}
-  s.rubygems_version = %q{1.1.1}
-  s.signing_key = %q{/Users/ggarside/.gem/gem-private_key.pem}
   s.summary = %q{Helper methods for use with God, see wiki for example}
   s.test_files = ["test/test_angel.rb", "test/test_helper.rb"]
 end
