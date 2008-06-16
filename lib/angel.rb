@@ -20,7 +20,7 @@ module Angel
   
   def self.pid_file(*args)
     options = options_from_array_of_hashes(args)
-    pid_file = options[:pid_file] || File.join(options[:cwd], "tmp/pids/server.pid")
+    pid_file = options[:pid_file] || File.join(options[:cwd], "log/server.pid")
     
     options[:port] ? pid_file.gsub(/\.pid$/, ".#{options[:port]}.pid") : pid_file
   end
