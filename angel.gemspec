@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name = %q{angel}
-  s.version = "1.0.0"
+  s.version = "1.0.1"
 
   s.authors = ["Geoff Garside"]
-  s.date = %q{2008-06-14}
+  s.date = %q{2008-06-16}
   s.description = %q{Helper methods for use with God, see wiki for example}
   s.email = ["geoff@geoffgarside.co.uk"]
   s.extra_rdoc_files = ["History.txt", "License.txt", "Manifest.txt", "PostInstall.txt", "README.txt", "website/index.txt"]
